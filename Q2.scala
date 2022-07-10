@@ -1,5 +1,5 @@
 object main extends App{
-var g = 4.0f;
+var g = 4.0f
 var a :Int =2
 var b :Int =3
 var c :Int =4
